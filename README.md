@@ -1,6 +1,6 @@
 # Overiew
 
-Repo for the talk I am giving "Why `datetime` is the Most Important SQL Data Type" at the Salt Lake City Suapbase Community Meetup
+Repo for the talk I am giving "Why `datetime` is the Most Important Data Type for Window Functions" at the Salt Lake City Suapbase Community Meetup
 
 ## Resources 
 
